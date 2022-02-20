@@ -1,5 +1,5 @@
 Welcome to Cardmakret API v3+'s documentation!
-======================================
+==============================================
 
 .. toctree::
    :maxdepth: 2
@@ -8,7 +8,6 @@ Welcome to Cardmakret API v3+'s documentation!
    readme
    installation
    usage
-   modules
    contributing
    authors
    history

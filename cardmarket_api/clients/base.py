@@ -1,6 +1,6 @@
 from requests import request, HTTPError
 import typing
-from clients.exceptions import ApiException
+from .exceptions import ApiException
 
 if typing.TYPE_CHECKING:
     from ..auth import Auth
